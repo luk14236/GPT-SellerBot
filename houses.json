@@ -1,0 +1,327 @@
+[
+    {
+      "id": 1,
+      "price_usd": 250000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1800,
+      "location": {
+        "neighborhood": "Downtown",
+        "city": "New York",
+        "state": "New York"
+      },
+      "description": "Cozy apartment in the heart of Downtown, close to restaurants and shopping."
+    },
+    {
+      "id": 2,
+      "price_usd": 350000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2400,
+      "location": {
+        "neighborhood": "Brooklyn Heights",
+        "city": "Brooklyn",
+        "state": "New York"
+      },
+      "description": "Spacious family home with a beautiful view of the Brooklyn Bridge."
+    },
+    {
+      "id": 3,
+      "price_usd": 180000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqft": 1200,
+      "location": {
+        "neighborhood": "Georgetown",
+        "city": "Washington",
+        "state": "District of Columbia"
+      },
+      "description": "Charming townhouse in a historic neighborhood, perfect for young professionals."
+    },
+    {
+      "id": 4,
+      "price_usd": 420000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area_sqft": 3200,
+      "location": {
+        "neighborhood": "Pacific Heights",
+        "city": "San Francisco",
+        "state": "California"
+      },
+      "description": "Luxurious mansion with stunning views of the San Francisco Bay."
+    },
+    {
+      "id": 5,
+      "price_usd": 300000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 2000,
+      "location": {
+        "neighborhood": "Beacon Hill",
+        "city": "Boston",
+        "state": "Massachusetts"
+      },
+      "description": "Classic brownstone with modern updates, located in a historic neighborhood."
+    },
+    {
+      "id": 6,
+      "price_usd": 280000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqft": 1600,
+      "location": {
+        "neighborhood": "Old Town",
+        "city": "Chicago",
+        "state": "Illinois"
+      },
+      "description": "Quaint duplex in a vibrant neighborhood, walking distance to shops and cafes."
+    },
+    {
+      "id": 7,
+      "price_usd": 380000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2800,
+      "location": {
+        "neighborhood": "Capitol Hill",
+        "city": "Seattle",
+        "state": "Washington"
+      },
+      "description": "Modern townhouse with rooftop deck, ideal for entertaining."
+    },
+    {
+      "id": 8,
+      "price_usd": 270000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1700,
+      "location": {
+        "neighborhood": "Midtown",
+        "city": "Atlanta",
+        "state": "Georgia"
+      },
+      "description": "Contemporary condo with city views, steps away from restaurants and nightlife."
+    },
+    {
+      "id": 9,
+      "price_usd": 320000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1900,
+      "location": {
+        "neighborhood": "North End",
+        "city": "Boston",
+        "state": "Massachusetts"
+      },
+      "description": "Historic rowhouse with original details, nestled in a charming neighborhood."
+    },
+    {
+      "id": 10,
+      "price_usd": 400000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2500,
+      "location": {
+        "neighborhood": "South Beach",
+        "city": "Miami",
+        "state": "Florida"
+      },
+      "description": "Beachfront condo with resort-style amenities, perfect for vacation living."
+    },
+    {
+      "id": 11,
+      "price_usd": 260000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqft": 1500,
+      "location": {
+        "neighborhood": "Nob Hill",
+        "city": "San Francisco",
+        "state": "California"
+      },
+      "description": "Cozy apartment with views of the city skyline, located in a prestigious neighborhood."
+    },
+    {
+      "id": 12,
+      "price_usd": 330000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1800,
+      "location": {
+        "neighborhood": "Georgetown",
+        "city": "Washington",
+        "state": "District of Columbia"
+      },
+      "description": "Renovated townhouse with private garden, close to parks and schools."
+    },
+    {
+      "id": 13,
+      "price_usd": 290000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1700,
+      "location": {
+        "neighborhood": "West Village",
+        "city": "New York",
+        "state": "New York"
+      },
+      "description": "Charming brownstone with original details, steps away from cafes and boutiques."
+    },
+    {
+      "id": 14,
+      "price_usd": 370000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2200,
+      "location": {
+        "neighborhood": "Gold Coast",
+        "city": "Chicago",
+        "state": "Illinois"
+      },
+      "description": "Elegant townhouse with views of Lake Michigan, located in a prestigious neighborhood."
+    },
+    {
+      "id": 15,
+      "price_usd": 310000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1900,
+      "location": {
+        "neighborhood": "Fenway",
+        "city": "Boston",
+        "state": "Massachusetts"
+      },
+      "description": "Spacious condo overlooking the ballpark, perfect for sports enthusiasts."
+    },
+    {
+      "id": 16,
+      "price_usd": 260000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqft": 1600,
+      "location": {
+        "neighborhood": "Dupont Circle",
+        "city": "Washington",
+        "state": "District of Columbia"
+      },
+      "description": "Modern loft with high ceilings and natural light, located in a trendy neighborhood."
+    },
+    {
+      "id": 17,
+      "price_usd": 340000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2100,
+      "location": {
+        "neighborhood": "Pacific Heights",
+        "city": "San Francisco",
+        "state": "California"
+      },
+      "description": "Stylish Victorian home with bay views, close to shops and restaurants."
+    },
+    {
+      "id": 18,
+      "price_usd": 280000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1800,
+      "location": {
+        "neighborhood": "Midtown",
+        "city": "Atlanta",
+        "state": "Georgia"
+      },
+      "description": "Contemporary townhouse with rooftop terrace, perfect for outdoor entertaining."
+    },
+    {
+      "id": 19,
+      "price_usd": 300000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1900,
+      "location": {
+        "neighborhood": "Old Town",
+        "city": "Chicago",
+        "state": "Illinois"
+      },
+      "description": "Historic rowhouse with modern updates, located in a vibrant neighborhood."
+    },
+    {
+      "id": 20,
+      "price_usd": 370000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2200,
+      "location": {
+        "neighborhood": "Greenwich Village",
+        "city": "New York",
+        "state": "New York"
+      },
+      "description": "Sophisticated apartment with skyline views, steps away from galleries and theaters."
+    },
+    {
+      "id": 21,
+      "price_usd": 280000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqft": 1600,
+      "location": {
+        "neighborhood": "Belltown",
+        "city": "Seattle",
+        "state": "Washington"
+      },
+      "description": "Modern condo with city views, close to waterfront parks and attractions."
+    },
+    {
+      "id": 22,
+      "price_usd": 320000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1900,
+      "location": {
+        "neighborhood": "Fells Point",
+        "city": "Baltimore",
+        "state": "Maryland"
+      },
+      "description": "Quaint rowhouse with original features, located in a historic waterfront community."
+    },
+    {
+      "id": 23,
+      "price_usd": 330000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqft": 1800,
+      "location": {
+        "neighborhood": "South End",
+        "city": "Boston",
+        "state": "Massachusetts"
+      },
+      "description": "Victorian home with period details, walking distance to cafes and shops."
+    },
+    {
+      "id": 24,
+      "price_usd": 290000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqft": 1500,
+      "location": {
+        "neighborhood": "Logan Circle",
+        "city": "Washington",
+        "state": "District of Columbia"
+      },
+      "description": "Cozy apartment in a bustling neighborhood, with easy access to transit."
+    },
+    {
+      "id": 25,
+      "price_usd": 350000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area_sqft": 2200,
+      "location": {
+        "neighborhood": "Mission District",
+        "city": "San Francisco",
+        "state": "California"
+      },
+      "description": "Hip loft with exposed brick and industrial charm, located in a vibrant neighborhood."
+    }
+]
